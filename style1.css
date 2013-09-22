@@ -1,0 +1,132 @@
+#aT{
+
+}
+#amountsTable{
+position: absolute;
+left:250px;
+text-align:left;
+font-size:16px;
+}
+#currentRates{
+}
+#from{
+position: absolute;
+top:650px;
+left:250px;
+}
+#sourceValue{
+position: absolute;
+top:680px;
+left:250px;
+font-size:20px;
+size:35;
+}
+#cb{
+position: absolute;
+top:720px;
+left: 350px;
+align: center;
+}
+#to{
+top:650px;
+left: 550px;
+}
+
+#dispEA{
+
+}
+#conv{
+position: absolute;
+top:750px;
+left: 350px;
+align: center;
+
+
+}
+
+
+#expTable{
+position: absolute;
+text-align:left;
+font-size:16px;
+left: 550px;
+top:680px;
+}
+
+#status{
+}
+#confirm{
+}
+
+
+/*
+#aT{
+font-size:20px;
+}
+#amountsTable{
+position:relative;
+left:-200px;
+}
+#currentRates{
+position:relative;
+left:50%;
+top:-110px;
+}
+#fromJS{
+position:relative;
+
+left:100px;
+top:20px;
+height:20px;
+font-size:20px;
+}
+#sourceValue{
+position:relative;
+
+left:100px;
+top:20px;
+
+font-size:20px;
+
+}
+#toJS{
+position:relative;
+left:250px;
+top:0px;
+}
+#dispEA{
+position:relative;
+left:550px;
+top:40px;
+font-size:20px;
+
+}
+#conv{
+position:absolute;
+left:420px;
+top:637px;
+
+}
+
+
+#expR{
+position:relative;
+left:150px;
+top:-250px;
+
+}
+
+#status{
+font-size:20px;
+top:-200px;
+left:850px;
+}
+#confirm{
+position:relative;
+font-size:20px;
+left:120px;
+top:60px;
+width:20px;
+height:20px;
+}
+*/
